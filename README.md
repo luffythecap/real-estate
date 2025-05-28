@@ -15,14 +15,6 @@ A modern and responsive Real Estate web application inspired by [JavaScript Mast
   <img src="https://github.com/user-attachments/assets/9c7a807d-d74d-417a-9db8-15126521156d" width="120" style="border-radius:20px; margin: 0 6px; box-shadow:0 2px 8px rgba(0,0,0,0.15);" />
 </p>
 
-<p align="center" style="margin-top: -10px;">
-  <img src="https://raw.githubusercontent.com/luffythecap/real-estate/main/.github/pagination-dot-filled.svg" width="10" />
-  <img src="https://raw.githubusercontent.com/luffythecap/real-estate/main/.github/pagination-dot.svg" width="10" />
-  <img src="https://raw.githubusercontent.com/luffythecap/real-estate/main/.github/pagination-dot.svg" width="10" />
-  <img src="https://raw.githubusercontent.com/luffythecap/real-estate/main/.github/pagination-dot.svg" width="10" />
-  <img src="https://raw.githubusercontent.com/luffythecap/real-estate/main/.github/pagination-dot.svg" width="10" />
-  <img src="https://raw.githubusercontent.com/luffythecap/real-estate/main/.github/pagination-dot.svg" width="10" />
-</p>
 <sub align="center">Swipe to view more</sub>
 
 ---
